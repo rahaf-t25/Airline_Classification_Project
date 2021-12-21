@@ -81,9 +81,3 @@ https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
 @aamalsabr1
 
 @AljoharahA
-## MVP
-
-* Checking Imbalanced Data
-* Selecting Features ( by K Best Score)
-* Highest feedback rate Based on online boarding
-* Department Delay and its effect on traveler satisfaction  
