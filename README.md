@@ -1,7 +1,7 @@
 # Airline_Classification_Project
 
 ## Classification
-## ![Logo](https://media.cntraveler.com/photos/607f3c487774091e06dd5d21/master/pass/Breeze%20Airways_166655077_303814634409055_8038496796049085212_n.jpeg)
+## ![Logo](https://static.toiimg.com/photo/83039882.cms)
 
 # Airline Passenger Satisfaction
 
