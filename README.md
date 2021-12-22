@@ -1,8 +1,21 @@
 # Airline_Classification_Project
+<img align="right" width="380" height="90" src="https://upload.wikimedia.org/wikipedia/ar/2/21/%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9_%D8%B3%D8%AF%D8%A7%D9%8A%D8%A7.png">
 
-## Classification
-## ![Logo](https://static.toiimg.com/photo/83039882.cms)
+\
+&nbsp;
 
+\
+&nbsp;
+\
+&nbsp;
+ # <p  align="center">  **Classification Models** </p>
+\
+&nbsp;
+
+
+![Logo](https://static.toiimg.com/photo/83039882.cms)
+\
+&nbsp;
 # Airline Passenger Satisfaction
 
 This dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger? 
@@ -76,8 +89,10 @@ machine learning models:
 https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
 ## Author
 
-@Rahaf-t25
+[Rahaf Alturbaq](https://github.com/Rahaf-t25)
 
-@aamalsabr1
+[Abdullatif Alsabr](https://github.com/Abdullatif-Alsabr)
 
-@AljoharahA
+[Aljoharah Alaqeel](https://github.com/AljoharahA)
+
+
